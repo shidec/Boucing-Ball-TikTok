@@ -3,7 +3,7 @@
  ## Video 
  [Making of Bouncing Ball TikTok Effect](https://youtu.be/Spu23OrPr-o)
 
->Catatan: belum ada tambahan penjelasan di dalam video, baru berupa rekaman layar
+>Catatan: Belum ada tambahan penjelasan di dalam video, baru berupa rekaman layar
 
  ## Visual Script 1
  ![Visual script 1](ReadmeAssets/VisualScript1.png)

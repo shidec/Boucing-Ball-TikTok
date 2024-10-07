@@ -35,9 +35,9 @@
 > saat di ujung kiri dan 20 saat di ujung kanan. Oleh karena itu nilai
 > posisi wajah harus dikonversi dengan rumus.
 > 
->    	`Xpapan = Xwajah * 40 - 20`
+> `Xpapan = Xwajah * 40 - 20`
 >    
->    Sehingga diterapkan dalam script:
+> Sehingga diterapkan dalam script:
 
 3. Kalikan dengan 40 (B = 40)
 4. Kurangi dengan 20 (B = 40)
@@ -53,7 +53,7 @@
 > 
 > `Xboard = Xface * 40 - 20`
 > 
->So that it is applied in the script:
+> So that it is applied in the script:
 3. Multiply by 40 (B = 40)
 4. Subtract by 20 (B = 40)
 5. Combine the X value (facial movement) with the Y value (still -15) and Z remains 0.

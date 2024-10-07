@@ -43,7 +43,7 @@
 
 3. Kalikan dengan 40 (B = 40)
 4. Kurangi dengan 20 (B = 40)
-5. Gabungkan nilai X (pergerakan wajah) dengan nilai Y (tetap -15) dan Z tetap 0.
+5. Gabungkan nilai X (berdasarkan pergerakan wajah) dengan nilai Y (tetap -15) dan Z tetap 0.
 6. Set posisi papan berdasarkan nilai yang sudah diperoleh sebelumnya.
 
 [EN]
@@ -58,5 +58,5 @@
 > So that it is applied in the script:
 3. Multiply by 40 (B = 40)
 4. Subtract by 20 (B = 40)
-5. Combine the X value (facial movement) with the Y fixed -15 and Z is 0.
+5. Combine the X value (from facial movement) with the Y fixed -15 and Z is 0.
 6. Set the board position based on the previously obtained value.

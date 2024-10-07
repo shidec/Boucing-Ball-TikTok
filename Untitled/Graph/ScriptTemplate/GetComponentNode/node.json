@@ -1,0 +1,41 @@
+{
+	"name": "Get Component",
+	"id": "d62860db-db33-f1df-3ccc-ae08dbf03d08",
+	"inputs": [
+		{
+			"name": "Source",
+			"type": "Component",
+			"visible": false,
+			"description": "Component source",
+			"displayType": "Component",
+			"nameKey": "graph_get_component_input_source",
+			"descriptionKey": "graph_get_component_input_source_description",
+			"displayTypeKey": "graph_type_component"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Component",
+			"type": "Component",
+			"description": "Component reference output",
+			"displayType": "Component",
+			"nameKey": "graph_get_component_output_component",
+			"descriptionKey": "graph_get_component_output_component_description",
+			"displayTypeKey": "graph_type_component"
+		}
+	],
+	"scriptAPIVersion": "1.0.0",
+	"js": "CGGetComponentNode.js",
+	"version": "1.0.0",
+	"builtinClass": "AMGObjectNode",
+	"category": "Component",
+	"description": "Get component",
+	"productTypes": [
+		"EHO",
+		"EHD",
+		"EHI"
+	],
+	"nameKey": "graph_get_component_name",
+	"categoryKey": "graph_category_component",
+	"descriptionKey": "graph_get_component_description"
+}

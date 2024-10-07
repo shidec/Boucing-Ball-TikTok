@@ -1,0 +1,29 @@
+[
+  {
+    "guid": {
+      "a": "b67b3607-bf9b-79f2-a93f-653e4e830741",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "ToonRamp_Lightmap",
+    "expandInPanel": true,
+    "objGuid": "",
+    "rttiType": "Texture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "compressionType": 1,
+    "quality": 0,
+    "maxResolution": 512,
+    "assetPackageID": "7265607263102976001",
+    "resourceFilePath": "C:\\Users\\shide\\AppData\\Roaming\\EffectHouse\\package\\7265607263102976001\\Textures\\ToonRamp_Lightmap.png"
+  }
+]

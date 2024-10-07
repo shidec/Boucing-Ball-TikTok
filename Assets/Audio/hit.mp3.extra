@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "9214d8a2-2c40-0b17-fa5b-5165f0aaeaa3",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "hit",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS",
+    "resourceFilePath": "D:\\Projects\\_Docs\\TikTok\\Ball\\hit.mp3"
+  }
+]

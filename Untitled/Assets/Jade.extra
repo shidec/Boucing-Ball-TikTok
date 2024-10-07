@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "9ec63c8e-1e8e-a557-2d50-3b87ed1cff4f",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Jade",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

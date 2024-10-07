@@ -1,0 +1,54 @@
+[
+  {
+    "guid": {
+      "a": "083e80c1-5bde-76c6-66cc-5975df99b572",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "RedWood",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.5.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "assetPackageID": "7355345246953455617",
+    "resourceFilePath": "C:\\Users\\shide\\AppData\\Roaming\\EffectHouse\\package\\7355345246953455617\\RedWood.omtl",
+    "skinObjGuid": "Guid(5173425603241725389, 12389175066500324224)",
+    "references": [
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_RadianceTexture",
+        "guid": "00000000-0000-0000-0000-000000000805"
+      },
+      {
+        "propertyName": "_EmissiveTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_RimHighlightTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_ThinFilmTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "a620c7d2-b85f-2849-3ecf-e25d399c04ff"
+      },
+      {
+        "propertyName": "_NormalTexture",
+        "guid": "ed87a0f5-7fe6-cd4a-d4c1-62fb8e453275"
+      },
+      {
+        "propertyName": "_MRAOTexture",
+        "guid": "80fc4bcf-2ce5-69db-3e25-b5dd9f24a5e6"
+      }
+    ],
+    "currAuslVersion": "2.0.4"
+  }
+]

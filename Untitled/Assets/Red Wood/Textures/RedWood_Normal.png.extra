@@ -1,0 +1,29 @@
+[
+  {
+    "guid": {
+      "a": "ed87a0f5-7fe6-cd4a-d4c1-62fb8e453275",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "RedWood_Normal",
+    "expandInPanel": true,
+    "objGuid": "",
+    "rttiType": "Texture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "assetPackageID": "7355345246953455617",
+    "resourceFilePath": "C:\\Users\\shide\\AppData\\Roaming\\EffectHouse\\package\\7355345246953455617\\Textures\\RedWood_Normal.png"
+  }
+]

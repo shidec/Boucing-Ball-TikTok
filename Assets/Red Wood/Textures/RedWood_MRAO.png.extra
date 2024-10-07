@@ -1,0 +1,29 @@
+[
+  {
+    "guid": {
+      "a": "7583482a-6009-abf8-41a1-96f06f5ab360",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "RedWood_MRAO",
+    "expandInPanel": true,
+    "objGuid": "",
+    "rttiType": "Texture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "assetPackageID": "7355345246953455617",
+    "resourceFilePath": "C:\\Users\\shide\\AppData\\Roaming\\EffectHouse\\package\\7355345246953455617\\Textures\\RedWood_MRAO.png"
+  }
+]

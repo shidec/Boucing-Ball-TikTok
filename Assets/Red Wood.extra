@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "e87df21e-eac4-41dc-a49d-18ad850fa805",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Red Wood",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

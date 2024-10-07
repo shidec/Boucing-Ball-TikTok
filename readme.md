@@ -5,8 +5,9 @@
 
  ## Visual Script 1
  ![Visual script 1](ReadmeAssets/VisualScript1.png)
- [ID]
- 1. Saat Bola menyentuh Papan, lakukan beberapa hal berikut :
+
+[ID]
+1. Saat Bola menyentuh Papan, lakukan beberapa hal berikut :
 2. Bunyikan suara
 3. Naikkan nilai counter untuk menghitung skor
 4. Tampilkan di teks skor
@@ -14,15 +15,17 @@
 6. Berikan gaya acak ke samping (nilai X) agar pantulan agak berubah untuk menambah tantangan
 
 [EN]
-7. When the ball hits the board, do the following :
-8. Play the audio
-9. Increase the counter value to calculate the score
-10. Show the score text
-11. Apply an upward force (Y value) to make the ball look like it is bouncing higher
-12. Apply a random force to the side (X value) to make the bounce change slightly to add to the challenge
+
+1. When the ball hits the board, do the following :
+2. Play the audio
+3. Increase the counter value to calculate the score
+4. Show the score text
+5. Apply an upward force (Y value) to make the ball look like it is bouncing higher
+6. Apply a random force to the side (X value) to make the bounce change slightly to add to the challenge
  
   ## Visual Script 2
   ![Visual script 2](ReadmeAssets/VisualScript1.png)
+  
 [ID]
 1. Deteksi pergerakan wajah
 2. Ambil nilai X saja, karena papan cuma bergerak secara horisontal
@@ -42,6 +45,7 @@
 6. Set posisi papan berdasarkan nilai yang sudah diperoleh sebelumnya.
 
 [EN]
+
 1. Detect face movement
 2. Take the X value only, because the board only moves horizontally
 

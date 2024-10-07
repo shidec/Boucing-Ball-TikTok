@@ -26,7 +26,7 @@
 6. Apply a random force to the side (X value) to make the bounce change slightly to add to the challenge
  
   ## Visual Script 2
-  ![Visual script 2](ReadmeAssets/VisualScript1.png)
+  ![Visual script 2](ReadmeAssets/VisualScript2.png)
   
 [ID]
 1. Deteksi pergerakan wajah
